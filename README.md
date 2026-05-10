@@ -6,9 +6,9 @@
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 
-  <a href="mdsabilulbari100@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=mdsabilulbari100@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
   <a href="https://www.facebook.com/md.sabilul.bari.2025">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
@@ -86,10 +86,6 @@ I enjoy crafting clean UI, solving real-world problems, and turning ideas into p
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sabilulbari&theme=tokyonight" />
   
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sabilulbari&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sabilulbari&theme=tokyonight" />
 </p>
 
 ---
