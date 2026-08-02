@@ -3,16 +3,17 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0284c7&height=200&section=header&text=Md%20Sabilul%20Bari&fontSize=42&fontColor=ffffff&animation=twinkling" alt="Header Banner" />
 </p>
 
-<!-- Avatar & Typing Text -->
-<p align="center">
-  <img src="https://i.ibb.co.com/Mk1HB0Ws/Artboard-1-2x-100.jpg" alt="Md Sabilul Bari" style="border-radius: 50%;" />
-</p>
+
 
 <h1 align="center">Hi, I'm Md Sabilul Bari 👋</h1>
 
 <h3 align="center">
   MERN Stack Developer • Frontend Engineer • Problem Solver
 </h3>
+<!-- Avatar & Typing Text -->
+<p align="center">
+  <img src="https://i.ibb.co.com/Mk1HB0Ws/Artboard-1-2x-100.jpg" alt="Md Sabilul Bari" style="border-radius: 50%;" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+Modern+Web+Applications;Passionate+MERN+Stack+Developer;Creating+Clean+and+Scalable+UI;Learning+Something+New+Everyday+🚀" alt="Typing SVG" />
