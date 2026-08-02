@@ -5,7 +5,7 @@
 
 <!-- Avatar & Typing Text -->
 <p align="center">
-  <img src="https://i.ibb.co.com/Mk1HB0Ws/Artboard-1-2x-100.jpg" alt="Md Sabilul Bari" width="130" style="border-radius: 50%;" />
+  <img src="https://i.ibb.co.com/Mk1HB0Ws/Artboard-1-2x-100.jpg" alt="Md Sabilul Bari" style="border-radius: 50%;" />
 </p>
 
 <h1 align="center">Hi, I'm Md Sabilul Bari 👋</h1>
