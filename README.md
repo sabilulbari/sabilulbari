@@ -3,10 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0284c7&height=200&section=header&text=Md%20Sabilul%20Bari&fontSize=42&fontColor=ffffff&animation=twinkling" alt="Header Banner" />
 </p>
 
-
-
-<h1 align="center">Hi, I'm Md Sabilul Bari 👋</h1>
-
 <h3 align="center">
   MERN Stack Developer • Frontend Engineer • Problem Solver
 </h3>
