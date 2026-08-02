@@ -1,9 +1,7 @@
-<h1 align="center">Hi, I'm Md Sabilul Bari</h1>
-
 <p align="center">
-  <img src="YOUR_DIRECT_IMAGE_URL_HERE" alt="Md Sabilul Bari" width="180"/>
+  <img src="https://i.ibb.co.com/Mk1HB0Ws/Artboard-1-2x-100.jpg" alt="Md Sabilul Bari" width="180"/>
 </p>
-
+<h1 align="center">Hi, I'm Md Sabilul Bari</h1>
 <h3 align="center">
   MERN Stack Developer • Frontend Engineer • Problem Solver
 </h3>
