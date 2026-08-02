@@ -1,27 +1,31 @@
+<!-- Header Banner -->
 <p align="center">
-  <img src="https://i.ibb.co.com/Mk1HB0Ws/Artboard-1-2x-100.jpg" alt="Md Sabilul Bari"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0284c7&height=200&section=header&text=Md%20Sabilul%20Bari&fontSize=42&fontColor=ffffff&animation=twinkling" alt="Header Banner" />
 </p>
-<h1 align="center">Hi, I'm Md Sabilul Bari</h1>
+
+<!-- Avatar & Typing Text -->
+<p align="center">
+  <img src="https://i.ibb.co.com/Mk1HB0Ws/Artboard-1-2x-100.jpg" alt="Md Sabilul Bari" width="130" style="border-radius: 50%;" />
+</p>
+
+<h1 align="center">Hi, I'm Md Sabilul Bari 👋</h1>
+
 <h3 align="center">
   MERN Stack Developer • Frontend Engineer • Problem Solver
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+Modern+Web+Applications;Passionate+MERN+Stack+Developer;Creating+Clean+and+Scalable+UI;Learning+Something+New+Everyday+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+Modern+Web+Applications;Passionate+MERN+Stack+Developer;Creating+Clean+and+Scalable+UI;Learning+Something+New+Everyday+🚀" alt="Typing SVG" />
 </p>
-
----
 
 <p align="center">
   <a href="https://github.com/sabilulbari">
     <img src="https://img.shields.io/badge/GitHub-121013?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=mdsabilulbari100@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-
-  <a href="https://www.facebook.com/md.sabilul.bari.2025">
+  <a href="https://www.facebook.com/md.sabilul.bari.2025" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
 </p>
@@ -30,13 +34,19 @@
 
 ## 👨‍💻 About Me
 
+I am a passionate **MERN Stack Developer** with a strong focus on building clean, interactive, and responsive web applications. I love converting complex ideas into smooth, user-friendly digital experiences.
+
+- 🔭 **Currently working on:** Building modern full-stack web applications and interactive UI components.
+- 🌱 **Currently learning:** Advanced Next.js, System Design, and Backend Performance Optimization.
+- 💬 **Ask me about:** React, JavaScript, Node.js, and Modern Web Tech.
+- ⚡ **Fun Fact:** I turn coffee into scalable interfaces and clean code! ☕
+
 ```js
 const sabilulBari = {
   role: "MERN Stack Developer",
   focus: ["Frontend Engineering", "Backend Systems", "Scalable UI"],
-  currentlyLearning: ["Advanced Backend", "System Design", "Authentication"],
-  technologies: ["React", "Next.js", "Node.js", "MongoDB"],
-  funFact: "I turn coffee into scalable interfaces ☕"
+  technologies: ["React", "Next.js", "Express.js", "Node.js", "MongoDB"],
+  motto: "Clean Code & Continuous Learning 🚀"
 };
 ```
 
