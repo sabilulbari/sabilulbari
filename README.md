@@ -4,7 +4,7 @@
 </p>
 <h1 align="center">Hi, I'm Md Sabilul Bari 👋</h1>
   <h3 align="center">
-  MERN Stack Developer • Frontend Engineer • Problem Solver
+  Full Stack Developer • Frontend Engineer • Problem Solver
 </h3>
 <!-- Avatar & Typing Text -->
 
@@ -29,7 +29,7 @@
 
 ## 👨‍💻 About Me
 
-I am a passionate **MERN Stack Developer** with a strong focus on building clean, interactive, and responsive web applications. I love converting complex ideas into smooth, user-friendly digital experiences.
+I am a passionate **Full Stack Developer** with a strong focus on building clean, interactive, and responsive web applications. I love converting complex ideas into smooth, user-friendly digital experiences.
 
 - 🔭 **Currently working on:** Building modern full-stack web applications and interactive UI components.
 - 🌱 **Currently learning:** Advanced Next.js, System Design, and Backend Performance Optimization.
