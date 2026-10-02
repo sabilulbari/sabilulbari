@@ -38,7 +38,7 @@ I am a passionate **MERN Stack Developer** with a strong focus on building clean
 
 ```js
 const sabilulBari = {
-  role: "MERN Stack Developer",
+  role: "Full Stack Developer",
   focus: ["Frontend Engineering", "Backend Systems", "Scalable UI"],
   technologies: ["React", "Next.js", "Express.js", "Node.js", "MongoDB"],
   motto: "Clean Code & Continuous Learning 🚀"
